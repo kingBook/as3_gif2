@@ -1,0 +1,5 @@
+.DS_Store
+bin-release
+bin-debug
+AS3GifPlayer/bin
+*.swc
